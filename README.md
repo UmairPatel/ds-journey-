@@ -1,1 +1,2 @@
-Hi, my name is Umair Patel. I am currently studing Information Tecnhology specifically Data Science. This is where is will be publishing various projects and this is where I will be tracking my progress every week. 
+#About me
+Hi, my name is Umair Patel. I am currently studing Information Tecnhology specifically Data Science. This is where is will be publishing various projects and this is where I will be tracking my progress every week.
