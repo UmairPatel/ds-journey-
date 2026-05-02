@@ -1,4 +1,4 @@
-# Exercise 2 
+# Exercise 3 
 
 initial_balance = 10000
 transactions = [200, -500, 300, -1000, 400, -200, 150, -50] 
