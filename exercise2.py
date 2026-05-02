@@ -3,13 +3,17 @@
 
 initial_balance = 10000
 transactions = [200, -500, 300, -1000, 400, -200, 150, -50] 
-withdrawels = 0
+withdrawals = 0
 
 for amount in transactions:
     if amount <0:
-        print(f"Withdrawel: ${(amount):,.2f}")
-        withdrawels += 1
+        print(f"Withdrawal: ${abs(amount):,.2f}")
+        withdrawals += 1
+    elif amount == 0:
+        print("Invalid Amount")
+    else:
+        print(f"Deposit: ${(amount):,.2f}")
 
 total_balance = initial_balance + sum(transactions)
-print(f"Total balance: ${total_balance:,.1f}")
-print(f"Total withdrawels: {withdrawels}")
+print(f"Total balance: ${total_balance:,.2f}")
+print(f"Total withdrawals: {withdrawals}")
