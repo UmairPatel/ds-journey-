@@ -11,9 +11,11 @@ Hi, my name is Umair Patel. I am currently studying Information Tecnhology speci
  - Python
  - SQL
  - Various other programming languages
+
 **Data Handling**
  - R
  - Excel
+
 **Tools**
  - VS Code
  - Github
@@ -25,4 +27,5 @@ All files and projects that I used and will be using to improve my learning expe
 ## Progress
 |Week         | Topics        |Status |
 |-------------|:-------------:|------:|
-|1|Github and Python basics|In Progress|
+|1|Python basics|Done|
+|2||In Progress|
