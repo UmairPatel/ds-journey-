@@ -27,5 +27,5 @@ All files and projects that I used and will be using to improve my learning expe
 ## Progress
 |Week         | Topics        |Status |
 |-------------|:-------------:|------:|
-|1|Python basics|Done|
-|2||In Progress|
+|1|Python Fundamentals|Done|
+|2|Data Visualisation and EDA|Done|
